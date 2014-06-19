@@ -7,3 +7,8 @@ https://github.com/openshift/origin-server/tree/master/cartridges/openshift-orig
 ....
 ...
 
+
+PUSH ALL
+
+
+1
